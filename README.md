@@ -40,7 +40,7 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 | Costo operativo            | Bajo                             | Bajo, mas eficiente                         |
 | Consistencia de respuestas | Variable, quizas erronea         | Homogénea y mejorada, reduce errores                  |
 | Adaptabilidad              | Variable dia a dia depende 
-                              del personal a cargo              | Dinámica, con aprendizaje continuo     |
+|                            | del personal a cargo             | Dinámica, con aprendizaje continuo     |
 
 ## 5. Reflexión Personal
 
